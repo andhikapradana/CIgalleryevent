@@ -1,10 +1,10 @@
 #revisi CI
-latihan1
-![alt text](https://github.com/CodeIgniter/hasil/beranda.PNG)
-latihan2
-![alt text](https://github.com/CodeIgniter/hasil/event.PNG)
-latihan3
-![alt text](https://github.com/CodeIgniter/hasil/gallery.PNG)
-latihan4
-![alt text](https://github.com/CodeIgniter/hasil/profil.PNG)
+beranda
+![alt text](https://github.com/andhikapradana/CIgalleryevent/blob/master/hasil/beranda.PNG)
+event
+![alt text](https://github.com/andhikapradana/CIgalleryevent/blob/master/hasil/event.PNG)
+gallery
+![alt text](https://github.com/andhikapradana/CIgalleryevent/blob/master/hasil/gallery.PNG)
+profil
+![alt text](https://github.com/andhikapradana/CIgalleryevent/blob/master/hasil/profil.PNG)
 
